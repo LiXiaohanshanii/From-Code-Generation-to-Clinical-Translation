@@ -45,8 +45,8 @@ Code lines
 Comment density
 Corresponding statistical comparisons and multiple-testing procedures
 
-**Modeling**
-04_models/ contains the scripts used for:
+**Clinical_Modeling**
+04_clinical_models/ contains the scripts used for:
 Final TRUST model development
 CrAg multi-threshold development analysis
 Final CrAg ≥1:80 model development
