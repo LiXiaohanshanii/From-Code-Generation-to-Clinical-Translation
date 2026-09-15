@@ -61,3 +61,7 @@ The analyses were performed using the Python environment and package versions re
 
 **License**
 This repository is released under the MIT License.
+
+**Archived Version**
+The version of this repository corresponding to the manuscript submission has been permanently archived on Zenodo.
+https://doi.org/10.5281/zenodo.22765061
